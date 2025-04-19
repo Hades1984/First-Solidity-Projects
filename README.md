@@ -8,7 +8,7 @@ This repository contains my early Solidity smart contracts, written while learni
   A basic script that ask a user to set value to a three variables (name,age and social security) and then show them in a array as a result
 
 - `etherprice.sol`  
-  A simple calculator that ask for ETH bakance and it's price and then calculate the value.
+  A simple calculator that ask for ETH balance and it's price and then calculate the value.
 
 - `getbalance.sol`  
   Ask a user for an address and then get the balance.
