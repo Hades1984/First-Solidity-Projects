@@ -19,7 +19,7 @@ This repository contains my early Solidity smart contracts, written while learni
   https://share.cryptozombies.io/en/lesson/1/share/hdtzr?id=Y3p8NjQ5NDcz
 
 - 'GuildProject.sol'
-- It is a smart contract that allows the management of a guild with players. It enables functionalities such as registering players, leveling them up, managing roles (Admin and Member), and allowing members to leave the guild
+  It is a smart contract that allows the management of a guild with players. It enables functionalities such as registering players, leveling them up, managing roles (Admin and Member), and allowing members to leave the guild
   This contract includes role-based access control, ensuring that only the admin can perform certain critical actions, such as registering players and changing the admin role.
 
 
