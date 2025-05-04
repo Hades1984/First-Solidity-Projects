@@ -18,10 +18,10 @@ This repository contains my early Solidity smart contracts, written while learni
   There is a link below that can show the web app result. Type a name and get a unique zombie based on the name.
   https://share.cryptozombies.io/en/lesson/1/share/hdtzr?id=Y3p8NjQ5NDcz
 
-- 'GuildProject.sol'
+- GuildProject.sol
   It is a smart contract that allows the management of a guild with players. It enables functionalities such as registering players, leveling them up, managing roles (Admin and Member), and allowing members to leave the guild
   This contract includes role-based access control, ensuring that only the admin can perform certain critical actions, such as registering players and changing the admin role.
-- 'QuestBoard.sol'
+- QuestBoard.sol
   QuestBoard allows users to create, claim, and complete quests with rewards. It's a minimal prototype for a decentralized task board, useful for bounties, collaborative tasks, or gamified missions.
   Key features:
      -Create Quest: Anyone can create a quest with a description and reward.
