@@ -17,8 +17,9 @@ This repository contains my early Solidity smart contracts, written while learni
   It's the code that I right for chapter 1 in basic course of Solidity on CryptoZombies.io.
  
 
-- `GuildProject.sol`
+- `GuildProject.sol`  
   It is a smart contract that allows the management of a guild with players.
+
 
   
 - `QuestBoard.sol`
