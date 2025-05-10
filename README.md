@@ -17,11 +17,11 @@ This repository contains my early Solidity smart contracts, written while learni
   it's the code that I right for chapter 1 in basic course of Solidity on CryptoZombies.io.
  
 
-- GuildProject.sol
+- `GuildProject.sol`
   It is a smart contract that allows the management of a guild with players.
 
   
-- QuestBoard.sol
+- `QuestBoard.sol`
   QuestBoard allows users to create, claim, and complete quests with rewards. It's a minimal prototype for a decentralized task board, useful for bounties, collaborative tasks, or gamified missions.
 
   
