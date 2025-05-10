@@ -14,7 +14,7 @@ This repository contains my early Solidity smart contracts, written while learni
   Ask a user for an address and then get the balance.
 
 - `CryptoZombie-Lesson 1.sol`  
-  it's the code that I right for chapter 1 in basic course of Solidity on CryptoZombies.io.
+  It's the code that I right for chapter 1 in basic course of Solidity on CryptoZombies.io.
  
 
 - `GuildProject.sol`
