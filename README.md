@@ -21,9 +21,9 @@ This repository contains my early Solidity smart contracts, written while learni
   It is a smart contract that allows the management of a guild with players.
 
 
-  
-- `QuestBoard.sol`
+- `QuestBoard.sol`  
   QuestBoard allows users to create, claim, and complete quests with rewards. It's a minimal prototype for a decentralized task board, useful for bounties, collaborative tasks, or gamified missions.
+  
 
   
 
